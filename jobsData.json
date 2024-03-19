@@ -1,0 +1,18 @@
+{
+  "featuredJobs": [
+    {
+      "title": "Senior Frontend Developer",
+      "company": "Company A",
+      "location": "City A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius mauris vel justo feugiat, ac rutrum ligula eleifend. Nulla facilisi. Sed bibendum sagittis nisi a aliquet.",
+      "applyLink": "https://www.example.com/apply"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Company B",
+      "location": "City B",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius mauris vel justo feugiat, ac rutrum ligula eleifend. Nulla facilisi. Sed bibendum sagittis nisi a aliquet.",
+      "applyLink": "https://www.example.com/apply"
+    }
+  ]
+}
